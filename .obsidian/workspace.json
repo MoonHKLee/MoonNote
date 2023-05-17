@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyReport/2023-05-16.md",
+                "file": "DailyReport/2023-05-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyReport/2023-05-16.md",
+                "file": "DailyReport/2023-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyReport/2023-05-16.md",
+                "file": "DailyReport/2023-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyReport/2023-05-16.md"
+                "file": "DailyReport/2023-05-17.md"
               }
             }
           },
@@ -163,13 +163,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "730ec88ce19f1432",
+  "active": "0950a01c156389c9",
   "lastOpenFiles": [
+    "DailyReport/2023-05-16.md",
+    "DailyReport/2023-05-17.md",
     "추가설명.md",
     "캐모마일 모듈화.md",
     "ADAPTER.md",
     "ISSUE LOG.md",
-    "DailyReport/2023-05-16.md",
     "DailyReport/2023-05-15.md",
     "DailyReport/2023-04-20.md",
     "DailyReport/2023-04-18.md",
@@ -191,7 +192,6 @@
     "DailyReport/2023-04-04.md",
     "DailyReport/2023-04-03.md",
     "_template/WeeklyTemplate.md",
-    "_template/DailyTemplate.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
