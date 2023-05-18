@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyReport/2023-05-17.md",
+                "file": "_template/DailyTemplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ISSUE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyReport/2023-05-17.md",
+                "file": "_template/DailyTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyReport/2023-05-17.md",
+                "file": "_template/DailyTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyReport/2023-05-17.md"
+                "file": "_template/DailyTemplate.md"
               }
             }
           },
@@ -163,10 +163,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0950a01c156389c9",
+  "active": "e052d788f7fa7ccf",
   "lastOpenFiles": [
-    "DailyReport/2023-05-16.md",
     "DailyReport/2023-05-17.md",
+    "DailyReport/2023-05-16.md",
     "추가설명.md",
     "캐모마일 모듈화.md",
     "ADAPTER.md",
