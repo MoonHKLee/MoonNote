@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59890ec5dc301d21",
+        "id": "abef4a2d333c6721",
         "type": "tabs",
         "children": [
           {
-            "id": "0950a01c156389c9",
+            "id": "1e6adf7bf0d6cd14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4fe8bcc25c64f980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "DailyReport/2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "DailyReport/2023-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "DailyReport/2023-05-22.md"
               }
             }
           },
@@ -176,11 +163,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fe8bcc25c64f980",
+  "active": "1e6adf7bf0d6cd14",
   "lastOpenFiles": [
-    "DailyReport/2023-05-22.md",
+    "Untitled.canvas",
     "Untitled.md",
     "DailyReport/2023-05-19.md",
+    "DailyReport/2023-05-22.md",
     "DailyReport/2023-05-18.md",
     "_template/DailyTemplate.md",
     "DailyReport/2023-05-17.md",
@@ -204,7 +192,6 @@
     "DailyReport/2023-04-10.md",
     "DailyReport/2023-04-09.md",
     "DailyReport/2023-04-08.md",
-    "DailyReport/2023-04-07.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
