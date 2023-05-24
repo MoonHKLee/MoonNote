@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4480501decbd2c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캐모마일 모듈화.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캐모마일 모듈화.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캐모마일 모듈화.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -163,15 +176,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e6adf7bf0d6cd14",
+  "active": "4480501decbd2c2a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "캐모마일 모듈화.md",
     "DailyReport/2023-05-23.md",
     "ADAPTER.md",
-    "캐모마일 모듈화.md",
     "ISSUE LOG.md",
-    "Untitled.canvas",
     "DailyReport/2023-05-22.md",
-    "Untitled.md",
     "DailyReport/2023-05-19.md",
     "DailyReport/2023-05-18.md",
     "_template/DailyTemplate.md",
@@ -192,7 +205,6 @@
     "DailyReport/2023-04-11.md",
     "DailyReport/2023-04-10.md",
     "DailyReport/2023-04-09.md",
-    "DailyReport/2023-04-08.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
