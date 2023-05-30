@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "팀장님 미팅 - 230524.md",
+                "file": "DailyReport/2023-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,14 +23,15 @@
             "id": "8ea0e789c9ba20de",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "DailyReport/2023-05-30.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "팀장님 미팅 - 230524.md",
+                "file": "DailyReport/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "팀장님 미팅 - 230524.md",
+                "file": "DailyReport/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "팀장님 미팅 - 230524.md"
+                "file": "DailyReport/2023-05-30.md"
               }
             }
           },
@@ -174,12 +175,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ea0e789c9ba20de",
+  "active": "1e6adf7bf0d6cd14",
   "lastOpenFiles": [
-    "캐모마일 모듈화.md",
     "팀장님 미팅 - 230524.md",
-    "Untitled.canvas",
+    "DailyReport/2023-05-30.md",
     "DailyReport/2023-05-23.md",
+    "캐모마일 모듈화.md",
+    "Untitled.canvas",
     "ADAPTER.md",
     "ISSUE LOG.md",
     "DailyReport/2023-05-22.md",
