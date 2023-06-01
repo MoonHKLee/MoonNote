@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyReport/2023-05-30.md",
+                "file": "_template/DailyTemplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyReport/2023-05-30.md",
+                "file": "_template/DailyTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyReport/2023-05-30.md",
+                "file": "_template/DailyTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyReport/2023-05-30.md"
+                "file": "_template/DailyTemplate.md"
               }
             }
           },
@@ -163,19 +163,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ea0e789c9ba20de",
+  "active": "e052d788f7fa7ccf",
   "lastOpenFiles": [
-    "컨벤션.canvas",
+    "DailyReport/2023-05-18.md",
+    "DailyReport/2023-05-19.md",
+    "DailyReport/2023-05-22.md",
     "DailyReport/2023-05-23.md",
+    "DailyReport/2023-05-30.md",
+    "DailyReport/2023-05-31.md",
+    "DailyReport/2023-06-01.md",
+    "_template/DailyTemplate.md",
+    "Pasted image 20230601111044.png",
+    "컨벤션.canvas",
     "캐모마일 모듈화.md",
     "ISSUE LOG.md",
-    "DailyReport/2023-05-30.md",
     "팀장님 미팅 - 230524.md",
     "ADAPTER.md",
-    "DailyReport/2023-05-22.md",
-    "DailyReport/2023-05-19.md",
-    "DailyReport/2023-05-18.md",
-    "_template/DailyTemplate.md",
     "DailyReport/2023-05-17.md",
     "DailyReport/2023-05-16.md",
     "추가설명.md",
@@ -190,8 +193,6 @@
     "DailyReport/2023-04-14.md",
     "DailyReport/2023-04-13.md",
     "DailyReport/2023-04-12.md",
-    "DailyReport/2023-04-11.md",
-    "DailyReport/2023-04-10.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
