@@ -11,14 +11,11 @@
             "id": "8ea0e789c9ba20de",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 394.40722305942313,
-                  "y": 2306.2164698665492,
-                  "zoom": -0.9999999999999996
-                }
+                "file": "DailyReport/2023-05-30.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "DailyReport/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "DailyReport/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "DailyReport/2023-05-30.md"
               }
             }
           },
@@ -168,13 +165,13 @@
   },
   "active": "8ea0e789c9ba20de",
   "lastOpenFiles": [
-    "DailyReport/2023-05-30.md",
-    "팀장님 미팅 - 230524.md",
+    "컨벤션.canvas",
     "DailyReport/2023-05-23.md",
     "캐모마일 모듈화.md",
-    "Untitled.canvas",
-    "ADAPTER.md",
     "ISSUE LOG.md",
+    "DailyReport/2023-05-30.md",
+    "팀장님 미팅 - 230524.md",
+    "ADAPTER.md",
     "DailyReport/2023-05-22.md",
     "DailyReport/2023-05-19.md",
     "DailyReport/2023-05-18.md",
@@ -195,7 +192,6 @@
     "DailyReport/2023-04-12.md",
     "DailyReport/2023-04-11.md",
     "DailyReport/2023-04-10.md",
-    "DailyReport/2023-04-09.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
