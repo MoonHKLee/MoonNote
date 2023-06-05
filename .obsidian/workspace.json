@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_template/DailyTemplate.md",
+                "file": "DailyReport/2023-06-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_template/DailyTemplate.md",
+                "file": "DailyReport/2023-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_template/DailyTemplate.md",
+                "file": "DailyReport/2023-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_template/DailyTemplate.md"
+                "file": "DailyReport/2023-06-01.md"
               }
             }
           },
@@ -163,8 +163,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e052d788f7fa7ccf",
+  "active": "8ea0e789c9ba20de",
   "lastOpenFiles": [
+    "Pasted image 20230601133417.png",
+    "Pasted image 20230601133348.png",
+    "_template/DailyTemplate.md",
     "DailyReport/2023-05-18.md",
     "DailyReport/2023-05-19.md",
     "DailyReport/2023-05-22.md",
@@ -172,7 +175,6 @@
     "DailyReport/2023-05-30.md",
     "DailyReport/2023-05-31.md",
     "DailyReport/2023-06-01.md",
-    "_template/DailyTemplate.md",
     "Pasted image 20230601111044.png",
     "컨벤션.canvas",
     "캐모마일 모듈화.md",
