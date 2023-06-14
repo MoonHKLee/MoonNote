@@ -4,25 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "abef4a2d333c6721",
+        "id": "f7282089a342d3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea0e789c9ba20de",
+            "id": "17855678bba52fb8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "컨벤션.canvas",
-                "viewState": {
-                  "x": -181.0908974949922,
-                  "y": -162.29569236475928,
-                  "zoom": -0.43828178376551435
-                }
+                "file": "DailyReport/2023-06-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93df61f6ebc71554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "내일 진행할 것.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컨벤션.canvas",
+                "file": "내일 진행할 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컨벤션.canvas",
+                "file": "내일 진행할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컨벤션.canvas"
+                "file": "내일 진행할 것.md"
               }
             }
           },
@@ -157,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "card-board:CardBoard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,40 +178,41 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ea0e789c9ba20de",
+  "active": "15f76e48efc532ba",
   "lastOpenFiles": [
+    "DailyReport/2023-06-07.md",
+    "내일 진행할 것.md",
+    "DailyReport/2023-05-18.md",
+    "DailyReport/2023-06-01.md",
+    "DailyReport/2023-05-17.md",
+    "DailyReport/2023-05-15.md",
+    "Pasted image 20230607091551.png",
+    "Untitled Kanban.md",
+    "asdf.md",
+    "2023-06-07.md",
+    "컨벤션.canvas",
     "캐모마일 모듈화.md",
     "ISSUE LOG.md",
     "DailyReport/2023-06-05.md",
-    "Pasted image 20230607091551.png",
     "Pasted image 20230607090530.png",
-    "DailyReport/2023-06-07.md",
-    "DailyReport/2023-06-01.md",
     "Pasted image 20230601133417.png",
     "Pasted image 20230601133348.png",
     "_template/DailyTemplate.md",
-    "DailyReport/2023-05-18.md",
     "DailyReport/2023-05-19.md",
     "DailyReport/2023-05-22.md",
     "DailyReport/2023-05-23.md",
     "DailyReport/2023-05-30.md",
     "DailyReport/2023-05-31.md",
     "Pasted image 20230601111044.png",
-    "컨벤션.canvas",
     "팀장님 미팅 - 230524.md",
     "ADAPTER.md",
-    "DailyReport/2023-05-17.md",
     "DailyReport/2023-05-16.md",
     "추가설명.md",
-    "DailyReport/2023-05-15.md",
     "DailyReport/2023-04-20.md",
     "DailyReport/2023-04-18.md",
     "DailyReport/2023-04-17.md",
     "레디스-세션-사용시-시큐리티-세션-이벤트-로깅-가이드.pdf",
     "23-04-13 Open Innovation.md",
-    "DailyReport/2023-04-16.md",
-    "DailyReport/2023-04-15.md",
-    "DailyReport/2023-04-14.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
