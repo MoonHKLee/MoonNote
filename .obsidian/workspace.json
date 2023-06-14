@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyReport/2023-06-07.md",
+                "file": "DailyReport/2023-06-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "내일 진행할 것.md",
+                "file": "DailyReport/2023-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "내일 진행할 것.md",
+                "file": "DailyReport/2023-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "내일 진행할 것.md"
+                "file": "DailyReport/2023-06-12.md"
               }
             }
           },
@@ -178,8 +176,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "15f76e48efc532ba",
+  "active": "17855678bba52fb8",
   "lastOpenFiles": [
+    "DailyReport/2023-06-13.md",
+    "DailyReport/2023-06-12.md",
+    "DailyReport/2023-06-05.md",
+    "DailyReport/2023-06-06.md",
     "DailyReport/2023-06-07.md",
     "내일 진행할 것.md",
     "DailyReport/2023-05-18.md",
@@ -193,7 +195,6 @@
     "컨벤션.canvas",
     "캐모마일 모듈화.md",
     "ISSUE LOG.md",
-    "DailyReport/2023-06-05.md",
     "Pasted image 20230607090530.png",
     "Pasted image 20230601133417.png",
     "Pasted image 20230601133348.png",
@@ -209,10 +210,7 @@
     "DailyReport/2023-05-16.md",
     "추가설명.md",
     "DailyReport/2023-04-20.md",
-    "DailyReport/2023-04-18.md",
-    "DailyReport/2023-04-17.md",
     "레디스-세션-사용시-시큐리티-세션-이벤트-로깅-가이드.pdf",
-    "23-04-13 Open Innovation.md",
     "WeeklyReport",
     "DailyReport",
     "_template"
