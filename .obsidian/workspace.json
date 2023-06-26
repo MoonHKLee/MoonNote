@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7282089a342d3b1",
+        "id": "2c7ab568550d326e",
         "type": "tabs",
         "children": [
           {
-            "id": "17855678bba52fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyReport/2023-06-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f428831f2965dbf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "테스트코드 프롬프트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d040b9e3554f0516",
+            "id": "7c671644072760de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +20,19 @@
             }
           },
           {
-            "id": "93df61f6ebc71554",
+            "id": "3b1dda7ba86800bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "내일 진행할 것.md",
+                "file": "230626 캐모마일 관련 협의.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230622 DCX 미팅.md",
+                "file": "230626 캐모마일 관련 협의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "230622 DCX 미팅.md",
+                "file": "230626 캐모마일 관련 협의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "230622 DCX 미팅.md"
+                "file": "230626 캐모마일 관련 협의.md"
               }
             }
           },
@@ -201,10 +177,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d040b9e3554f0516",
+  "active": "3b1dda7ba86800bb",
   "lastOpenFiles": [
-    "테스트코드 프롬프트.md",
     "230622 DCX 미팅.md",
+    "230626 캐모마일 관련 협의.md",
+    "Untitled",
+    "테스트코드 프롬프트.md",
     "asdf.md",
     "Untitled.canvas",
     "DailyReport/2023-06-19.md",
@@ -235,7 +213,6 @@
     "DailyReport/2023-05-30.md",
     "DailyReport/2023-05-31.md",
     "Pasted image 20230601111044.png",
-    "팀장님 미팅 - 230524.md",
     "레디스-세션-사용시-시큐리티-세션-이벤트-로깅-가이드.pdf",
     "WeeklyReport",
     "DailyReport",
