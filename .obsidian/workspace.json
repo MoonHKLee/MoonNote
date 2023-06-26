@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d040b9e3554f0516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "230622 DCX 미팅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93df61f6ebc71554",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "테스트코드 프롬프트.md",
+                "file": "230622 DCX 미팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "테스트코드 프롬프트.md",
+                "file": "230622 DCX 미팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "테스트코드 프롬프트.md"
+                "file": "230622 DCX 미팅.md"
               }
             }
           },
@@ -189,12 +201,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f428831f2965dbf0",
+  "active": "d040b9e3554f0516",
   "lastOpenFiles": [
+    "테스트코드 프롬프트.md",
+    "230622 DCX 미팅.md",
     "asdf.md",
     "Untitled.canvas",
     "DailyReport/2023-06-19.md",
-    "테스트코드 프롬프트.md",
     "DailyReport/2023-06-14.md",
     "DailyReport/2023-06-13.md",
     "DailyReport/2023-06-12.md",
