@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Spring/스프링의 런타임 관리.md",
+                "file": "DailyReport/2023-07-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/Spring/스프링의 런타임 관리.md",
+                "file": "DailyReport/2023-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/Spring/스프링의 런타임 관리.md",
+                "file": "DailyReport/2023-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/Spring/스프링의 런타임 관리.md"
+                "file": "DailyReport/2023-07-14.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "6cc1d30ce37cc8bf",
   "lastOpenFiles": [
+    "DailyReport/2023-07-13.md",
+    "DailyReport/2023-07-14.md",
     "Docs/Spring/스프링의 런타임 관리.md",
     "2023-07-13.md",
     "Untitled.canvas",
@@ -194,7 +196,6 @@
     "Docs/Untitled.md",
     "Images/자바독 작성요령.md",
     "_template/DailyTemplate.md",
-    "DailyReport/2023-07-13.md",
     "DailyReport/2023-04-04.md",
     "DailyReport/2023-04-03.md",
     "Issues",
@@ -219,7 +220,6 @@
     "DailyReport/2023-06-12.md",
     "DailyReport/2023-06-05.md",
     "DailyReport/2023-06-06.md",
-    "DailyReport/2023-06-07.md",
     "Pasted image 20230607091551.png",
     "컨벤션.canvas",
     "Pasted image 20230607090530.png",
