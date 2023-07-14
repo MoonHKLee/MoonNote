@@ -8,31 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c671644072760de",
+            "id": "9ee4dab56660c239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230622 DCX 미팅.md",
+                "file": "Docs/Java/자바독 작성방법.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b1dda7ba86800bb",
+            "id": "6d7608b2198b5fd5",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cc1d30ce37cc8bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230626 캐모마일 관련 협의.md",
+                "file": "Docs/Spring/스프링의 런타임 관리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,13 +114,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230626 캐모마일 관련 협의.md",
+                "file": "Docs/Spring/스프링의 런타임 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "230626 캐모마일 관련 협의.md",
+                "file": "Docs/Spring/스프링의 런타임 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "230626 캐모마일 관련 협의.md"
+                "file": "Docs/Spring/스프링의 런타임 관리.md"
               }
             }
           },
@@ -158,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,14 +184,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b1dda7ba86800bb",
+  "active": "6cc1d30ce37cc8bf",
   "lastOpenFiles": [
-    "테스트코드 프롬프트.md",
-    "230626 캐모마일 관련 협의.md",
-    "230622 DCX 미팅.md",
-    "Untitled",
-    "asdf.md",
+    "Docs/Spring/스프링의 런타임 관리.md",
+    "2023-07-13.md",
     "Untitled.canvas",
+    "Docs/Java/자바독 작성방법.md",
+    "Docs/Spring",
+    "Docs/Untitled.md",
+    "Images/자바독 작성요령.md",
+    "_template/DailyTemplate.md",
+    "DailyReport/2023-07-13.md",
+    "DailyReport/2023-04-04.md",
+    "DailyReport/2023-04-03.md",
+    "Issues",
+    "캐모마일 백엔드 협의/20230630.md",
+    "캐모마일 백엔드 협의/캐모마일 Core 기능 목록.md",
+    "Images",
+    "5단계.md",
+    "Docs/Java",
+    "Untitled 1",
+    "Untitled.md",
+    "캐모마일 IDE 전달사항.md",
+    "Docs",
+    "캐모마일 백엔드 협의",
+    "230622 DCX 미팅.md",
+    "230626 캐모마일 관련 협의.md",
+    "테스트코드 프롬프트.md",
+    "230627 캐모마일 관련 협의.md",
+    "asdf.md",
     "DailyReport/2023-06-19.md",
     "DailyReport/2023-06-14.md",
     "DailyReport/2023-06-13.md",
@@ -192,30 +220,14 @@
     "DailyReport/2023-06-05.md",
     "DailyReport/2023-06-06.md",
     "DailyReport/2023-06-07.md",
-    "내일 진행할 것.md",
-    "DailyReport/2023-05-18.md",
-    "DailyReport/2023-06-01.md",
-    "DailyReport/2023-05-17.md",
-    "DailyReport/2023-05-15.md",
     "Pasted image 20230607091551.png",
-    "Untitled Kanban.md",
-    "2023-06-07.md",
     "컨벤션.canvas",
-    "캐모마일 모듈화.md",
-    "ISSUE LOG.md",
     "Pasted image 20230607090530.png",
     "Pasted image 20230601133417.png",
     "Pasted image 20230601133348.png",
-    "_template/DailyTemplate.md",
-    "DailyReport/2023-05-19.md",
-    "DailyReport/2023-05-22.md",
-    "DailyReport/2023-05-23.md",
-    "DailyReport/2023-05-30.md",
-    "DailyReport/2023-05-31.md",
     "Pasted image 20230601111044.png",
     "레디스-세션-사용시-시큐리티-세션-이벤트-로깅-가이드.pdf",
     "WeeklyReport",
-    "DailyReport",
-    "_template"
+    "DailyReport"
   ]
 }
